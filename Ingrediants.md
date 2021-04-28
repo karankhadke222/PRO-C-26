@@ -1,0 +1,10 @@
+ingridiants=flour(150gm)
+            Powdered Suger(75gm)
+            Coco Powder(40gm)
+            butter(1/4 cup)
+            milk(1 cup)
+            baking powder(1 tsp)
+            making Soda(1/4 tsp)
+            Vannila Essense(1/2 tsp)
+            Chocolate Essense (1/2 tsp)
+            
